@@ -1,4 +1,4 @@
-# LinkTree Clone
+# LinkChain
 
 This is user-friendly and customizable link management application that allows users to create a personalized landing page. It provides an easy way to share multiple links through a single URL, making it convenient for users to promote their platforms.
 
